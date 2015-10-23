@@ -1,0 +1,7 @@
+C:\Users\elennox\Desktop\junk\Euler\TextThing\TextThing\bin\Debug\TextThing.exe.config
+C:\Users\elennox\Desktop\junk\TextGame\TextThing\bin\Debug\TextThing.exe.config
+C:\Users\elennox\Desktop\junk\TextGame\TextThing\bin\Debug\TextThing.exe
+C:\Users\elennox\Desktop\junk\TextGame\TextThing\bin\Debug\TextThing.pdb
+C:\Users\elennox\Desktop\junk\TextGame\TextThing\obj\Debug\TextThing.csprojResolveAssemblyReference.cache
+C:\Users\elennox\Desktop\junk\TextGame\TextThing\obj\Debug\TextThing.exe
+C:\Users\elennox\Desktop\junk\TextGame\TextThing\obj\Debug\TextThing.pdb
